@@ -22,3 +22,4 @@ Create input folder and move all the input files into it
 5. Rank
    Run the Search algorithm before Rank.
    hadoop jar <jarFileName> Rank <Search_ouput_path> <output>
+ 
